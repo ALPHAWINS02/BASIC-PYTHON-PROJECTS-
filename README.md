@@ -1,7 +1,10 @@
 # BASIC-PYTHON-PROJECTS-
 
-![image](https://user-images.githubusercontent.com/75584422/124364219-a0a26a80-dc5d-11eb-93ba-f97069fa3f39.png)
+![image](https://user-images.githubusercontent.com/75584422/124364252-e3644280-dc5d-11eb-9535-2b36d47d9ef4.png)
 
 HERE ALL THE PROJECTS ARE RELEATED TO PYTHON 
+
+1. SNAKE BITE (GAME)
+  > Move the snake to different directions while catching the objects appearing and growing in size without crashing to the walls.
 
  
