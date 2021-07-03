@@ -10,4 +10,9 @@ HERE ALL THE PROJECTS ARE RELEATED TO PYTHON
   > <img src="images/SNAKE.jpg" width="190" height="190" align="middle" />
   > <img src="images/SNAKE2.jpg" width="180" height="180" align="middle" />
 
+2. ROLLING DICE (GAME)
+  > Simple as name just roll 
+  > <p align ="centre">
+  > <img src="images/dice.jpg" width="180" height="180"  />
+ 
  
